@@ -1,6 +1,6 @@
 1st  
 
-<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
+<"link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
 
 2nd 
 
@@ -33,4 +33,4 @@ npm run build
 
 8th
 
-<link href="./dist/output.css" rel="stylesheet">
+<"link href="./dist/output.css" rel="stylesheet">
