@@ -1,6 +1,6 @@
 1st  
 
-"<link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">"
+ <l   in  k   h r    ef   =" ht tps://cd    n .   j sd  e   livr.ne    t/npm/tailwindcss@2.1.2/dist/tailwind.min.css" rel="stylesheet">
 
 2nd 
 
